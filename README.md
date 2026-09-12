@@ -48,10 +48,7 @@ This project answers that question end-to-end: raw sensor data → feature engin
 
 **Dashboard with Dataset 1**:
 
-
-
-**Dashboard with Dataset 2**:
-
+<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/36f7cf6b-0430-41b1-a5c4-d1a1708a95bd" />
 
 
 **Dashboard Demo with Dataset 2**
@@ -64,7 +61,7 @@ This project answers that question end-to-end: raw sensor data → feature engin
 
 **Configurable thresholds** — critical/warning sliders re-classify the fleet live
 
-
+[Demo Link](https://drive.google.com/file/d/1NUItMg9bemUqpxLKB9CIQXD8M85NnWWX/view?usp=sharing)
 
 ---
 
