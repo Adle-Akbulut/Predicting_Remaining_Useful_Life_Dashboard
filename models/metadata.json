@@ -1,0 +1,91 @@
+{
+  "target": "rul",
+  "target_cap": 125,
+  "windows": [
+    5,
+    10
+  ],
+  "val_fraction": 0.2,
+  "seed": 42,
+  "feature_count": 111,
+  "metrics": {
+    "validation": {
+      "mae": 5.55631924005082,
+      "rmse": 6.868761671920706,
+      "r2": 0.0,
+      "within_10_cycles": 0.8269230769230769,
+      "within_20_cycles": 1.0,
+      "count": 52
+    },
+    "test": {
+      "mae": 12.935439485524382,
+      "rmse": 16.829294173822127,
+      "r2": 0.8463889496003514,
+      "within_10_cycles": 0.4942084942084942,
+      "within_20_cycles": 0.7876447876447876,
+      "count": 259
+    }
+  },
+  "top_features": [
+    {
+      "feature": "cycle",
+      "importance": 0.1949419528245926
+    },
+    {
+      "feature": "sensor_15",
+      "importance": 0.07233783602714539
+    },
+    {
+      "feature": "sensor_4",
+      "importance": 0.06818678975105286
+    },
+    {
+      "feature": "sensor_11",
+      "importance": 0.06817051023244858
+    },
+    {
+      "feature": "sensor_13",
+      "importance": 0.06385724246501923
+    },
+    {
+      "feature": "sensor_16_rmean_10",
+      "importance": 0.03905881568789482
+    },
+    {
+      "feature": "sensor_6",
+      "importance": 0.0367031954228878
+    },
+    {
+      "feature": "sensor_12",
+      "importance": 0.03608362749218941
+    },
+    {
+      "feature": "sensor_13_rstd_5",
+      "importance": 0.029641591012477875
+    },
+    {
+      "feature": "sensor_10_rmean_10",
+      "importance": 0.023848220705986023
+    },
+    {
+      "feature": "sensor_13_rmean_5",
+      "importance": 0.023077111691236496
+    },
+    {
+      "feature": "sensor_7",
+      "importance": 0.019126681610941887
+    },
+    {
+      "feature": "sensor_16",
+      "importance": 0.017832573503255844
+    },
+    {
+      "feature": "sensor_17",
+      "importance": 0.016449082642793655
+    },
+    {
+      "feature": "sensor_14",
+      "importance": 0.014036078937351704
+    }
+  ]
+}
