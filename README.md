@@ -48,8 +48,7 @@ This project answers that question end-to-end: raw sensor data → feature engin
 
 **Dashboard with Dataset 1**:
 
-<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/36f7cf6b-0430-41b1-a5c4-d1a1708a95bd" />
-
+<img width="791" height="1024" alt="Predictive Maintenance Dashboard Dataset 1" src="https://github.com/user-attachments/assets/bfe82b92-c985-4bf6-9b91-dac204248934" />
 
 **Dashboard Demo with Dataset 2**
 
